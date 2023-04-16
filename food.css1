@@ -92,7 +92,7 @@
 
 .wcu-card-image {
     width: 87px;
-    height: 90px;
+    height: 80px;
 }
 
 .wcu-card-title {
